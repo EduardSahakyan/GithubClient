@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invalid_token">Invalid token</string>
+    <string name="connection_error">Connection error</string>
+    <string name="search">Search</string>
+    <string name="sign_in">Sign in</string>
+    <string name="downloaded_repos">Downloaded repos</string>
+    <string name="error">Error</string>
+</resources>
